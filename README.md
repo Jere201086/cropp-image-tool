@@ -16,8 +16,6 @@ npx lite-server
 Windows: 
 Vá até a pasta onde o repositótio foi clonado e com o git bash execute o lite-server
 ```sh
-npx lite-server
-```
 Com o lite-server rodando basta abrir o browser e ir para a URL 
 http://localhost:3000
 
