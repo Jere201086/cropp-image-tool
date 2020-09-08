@@ -16,6 +16,8 @@ npx lite-server
 Windows: 
 Vá até a pasta onde o repositótio foi clonado e com o git bash execute o lite-server
 ```sh
+npx lite-server
+```
 Com o lite-server rodando basta abrir o browser e ir para a URL 
 http://localhost:3000
 
@@ -45,4 +47,10 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/Jere201086/cropp-image-tool/wiki
