@@ -11,8 +11,8 @@
 }
 
 :root {
-    --bg: #130f0d;
-    --orange: #fd951f;
+    --bg: #979696;
+    --orange: #000000;
     --brown-opaque: rgba(250, 152, 5, 0.139);
     --white: #f0f0f9;
     --green: hsl(98 100% 62%);
