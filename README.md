@@ -3,6 +3,8 @@
 Este projeto é um mini-app feito em HTML que faz cortes em imagens e download das mesmas,
 usando Canvas e Javascript.
 
+[GitHub Page](https://jere201086.github.io/cropp-image-tool/)
+
 ![](./example.png)
 
 ## Instalação
